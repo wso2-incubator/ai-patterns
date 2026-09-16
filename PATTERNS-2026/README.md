@@ -1,4 +1,12 @@
-Supplementary Material 
+
+This folder contains supporting material for following
+* the paper "A Methodology for Investigating AI Patterns Prevalence in Software Repositories," published in PATTERNS 2026
+* "A Methodology for Finding and Estimating Software Design Patterns Prevalence in
+Software Repositories", an extended version of the paper under review in IARIA Journal.
+
+
+List of supporting material
+
 * sources_for_mining_pattern_candidates.csv - sources used for mining pattern candidates 
 * repositories_mined_for_communities.csv - repositories used for finding code communities 
 * prompt_extracting_pattern_candidates.txt - prompts used for extracting patterns in step 1
